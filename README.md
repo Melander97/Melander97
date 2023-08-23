@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋</h1>
-<h3 align="center">I'm a full stack developer student from Sweden</h3>
+<h3 align="center">I'm a junior full stack developer from Sweden</h3>
 
 - 📫 How to reach me **Alexandermelander1@gmail.com**
 
